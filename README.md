@@ -1,3 +1,7 @@
+This blog post accompanies a tutorial on the Directus Docs being published on April 2 2024.
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
